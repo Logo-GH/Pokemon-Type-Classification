@@ -9,7 +9,7 @@ There are two .ipynb files included:
   - Pytorch_Pokemon_Project_Shinies_github
 Both files work independently of one another. The second one is just an expansion of this project where I added shiny sprites as well to be included in training. Important to note that these were kept and ran in separate folders. It is recommended to keep them in separate folders as there is overlap in terms of the file names they create. Can be kept in the same folder if that is addressed though. Make sure that in each folder you include the Typing_sprites folder. That contains images for all the different types, and is used for visuals within the code.
 
-An important thing to note is that the script requests you to sift through forms and decide which ones to keep or not. I will be providing the cleaned_pokedex.txt, so that you do not have to do this step if you do not want. As well, as a .txt file showing you which pokemon were removed and kept.
+An important thing to note is that the script requests you to sift through forms and decide which ones to keep or not. I will be providing the cleaned_pokedex.txt, so that you do not have to do this step if you do not want. As well, as pokemon_removal_steps.txt file showing you which pokemon were removed and kept, allowing you to follow along.
 
 There are three major models used. A basic custom CNN, Resnet 18, and Resnet 50. In the Shinies file there is Resnet18, Resnet50, and custom Resnet 50 that has been fine tuned. They all used BCE with Logit Loss as their loss function.
 Each model outputs 18 scores whose position is tied to a specific pokemon typing. A custom accuracy method is used due to the non-mutually exclusive multi-class labeling nature of predicting pokemon types. Exact:
