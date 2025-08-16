@@ -1,0 +1,328 @@
+A cleaned pokedex with certain forms removed already exists!
+If you want to create a new version input 'y', otherwise input any other key to load previous data:
+y
+Pokemon: pikachu
+	pikachu-rock-star
+Remove? y for yes, any other key for no:
+y
+	pikachu-belle
+Remove? y for yes, any other key for no:
+y
+	pikachu-pop-star
+Remove? y for yes, any other key for no:
+y
+	pikachu-phd
+Remove? y for yes, any other key for no:
+y
+	pikachu-libre
+Remove? y for yes, any other key for no:
+y
+	pikachu-cosplay
+Remove? y for yes, any other key for no:
+y
+	pikachu-starter
+Remove? y for yes, any other key for no:
+y
+Pokemon: tauros
+	tauros-paldea-combat-breed
+Remove? y for yes, any other key for no:
+
+	tauros-paldea-blaze-breed
+Remove? y for yes, any other key for no:
+
+	tauros-paldea-aqua-breed
+Remove? y for yes, any other key for no:
+
+Pokemon: eevee
+	eevee-starter
+Remove? y for yes, any other key for no:
+y
+Pokemon: castform
+	castform-sunny
+Remove? y for yes, any other key for no:
+
+	castform-rainy
+Remove? y for yes, any other key for no:
+
+	castform-snowy
+Remove? y for yes, any other key for no:
+
+Pokemon: deoxys-normal
+	deoxys-attack
+Remove? y for yes, any other key for no:
+
+	deoxys-defense
+Remove? y for yes, any other key for no:
+
+	deoxys-speed
+Remove? y for yes, any other key for no:
+
+Pokemon: wormadam-plant
+	wormadam-sandy
+Remove? y for yes, any other key for no:
+
+	wormadam-trash
+Remove? y for yes, any other key for no:
+
+Pokemon: rotom
+	rotom-heat
+Remove? y for yes, any other key for no:
+
+	rotom-wash
+Remove? y for yes, any other key for no:
+
+	rotom-frost
+Remove? y for yes, any other key for no:
+
+	rotom-fan
+Remove? y for yes, any other key for no:
+
+	rotom-mow
+Remove? y for yes, any other key for no:
+
+Pokemon: shaymin-land
+	shaymin-sky
+Remove? y for yes, any other key for no:
+
+Pokemon: basculin-red-striped
+	basculin-blue-striped
+Remove? y for yes, any other key for no:
+y
+	basculin-white-striped
+Remove? y for yes, any other key for no:
+y
+Pokemon: darmanitan-standard
+	darmanitan-zen
+Remove? y for yes, any other key for no:
+
+	darmanitan-galar-standard
+Remove? y for yes, any other key for no:
+
+	darmanitan-galar-zen
+Remove? y for yes, any other key for no:
+
+Pokemon: tornadus-incarnate
+	tornadus-therian
+Remove? y for yes, any other key for no:
+
+Pokemon: thundurus-incarnate
+	thundurus-therian
+Remove? y for yes, any other key for no:
+
+Pokemon: landorus-incarnate
+	landorus-therian
+Remove? y for yes, any other key for no:
+
+Pokemon: kyurem
+	kyurem-black
+Remove? y for yes, any other key for no:
+
+	kyurem-white
+Remove? y for yes, any other key for no:
+
+Pokemon: keldeo-ordinary
+	keldeo-resolute
+Remove? y for yes, any other key for no:
+y
+Pokemon: meloetta-aria
+	meloetta-pirouette
+Remove? y for yes, any other key for no:
+
+Pokemon: greninja
+	greninja-battle-bond
+Remove? y for yes, any other key for no:
+y
+	greninja-ash
+Remove? y for yes, any other key for no:
+
+Pokemon: floette
+	floette-eternal
+Remove? y for yes, any other key for no:
+
+Pokemon: meowstic-male
+	meowstic-female
+Remove? y for yes, any other key for no:
+
+Pokemon: aegislash-shield
+	aegislash-blade
+Remove? y for yes, any other key for no:
+
+Pokemon: pumpkaboo-average
+	pumpkaboo-small
+Remove? y for yes, any other key for no:
+y
+	pumpkaboo-large
+Remove? y for yes, any other key for no:
+y
+	pumpkaboo-super
+Remove? y for yes, any other key for no:
+y
+Pokemon: gourgeist-average
+	gourgeist-small
+Remove? y for yes, any other key for no:
+y
+	gourgeist-large
+Remove? y for yes, any other key for no:
+y
+	gourgeist-super
+Remove? y for yes, any other key for no:
+y
+Pokemon: zygarde-50
+	zygarde-10-power-construct
+Remove? y for yes, any other key for no:
+y
+	zygarde-50-power-construct
+Remove? y for yes, any other key for no:
+y
+	zygarde-complete
+Remove? y for yes, any other key for no:
+
+	zygarde-10
+Remove? y for yes, any other key for no:
+
+Pokemon: hoopa
+	hoopa-unbound
+Remove? y for yes, any other key for no:
+
+Pokemon: oricorio-baile
+	oricorio-pom-pom
+Remove? y for yes, any other key for no:
+
+	oricorio-pau
+Remove? y for yes, any other key for no:
+
+	oricorio-sensu
+Remove? y for yes, any other key for no:
+
+Pokemon: rockruff
+	rockruff-own-tempo
+Remove? y for yes, any other key for no:
+y
+Pokemon: lycanroc-midday
+	lycanroc-midnight
+Remove? y for yes, any other key for no:
+
+	lycanroc-dusk
+Remove? y for yes, any other key for no:
+
+Pokemon: wishiwashi-solo
+	wishiwashi-school
+Remove? y for yes, any other key for no:
+
+Pokemon: minior-red-meteor
+	minior-orange-meteor
+Remove? y for yes, any other key for no:
+y
+	minior-yellow-meteor
+Remove? y for yes, any other key for no:
+y
+	minior-green-meteor
+Remove? y for yes, any other key for no:
+y
+	minior-blue-meteor
+Remove? y for yes, any other key for no:
+y
+	minior-indigo-meteor
+Remove? y for yes, any other key for no:
+y
+	minior-violet-meteor
+Remove? y for yes, any other key for no:
+y
+	minior-red
+Remove? y for yes, any other key for no:
+
+	minior-orange
+Remove? y for yes, any other key for no:
+y
+	minior-yellow
+Remove? y for yes, any other key for no:
+y
+	minior-green
+Remove? y for yes, any other key for no:
+y
+	minior-blue
+Remove? y for yes, any other key for no:
+y
+	minior-indigo
+Remove? y for yes, any other key for no:
+y
+	minior-violet
+Remove? y for yes, any other key for no:
+y
+Pokemon: necrozma
+	necrozma-dusk
+Remove? y for yes, any other key for no:
+
+	necrozma-dawn
+Remove? y for yes, any other key for no:
+
+	necrozma-ultra
+Remove? y for yes, any other key for no:
+
+Pokemon: magearna
+	magearna-original
+Remove? y for yes, any other key for no:
+
+Pokemon: cramorant
+	cramorant-gulping
+Remove? y for yes, any other key for no:
+y
+	cramorant-gorging
+Remove? y for yes, any other key for no:
+y
+Pokemon: toxtricity-amped
+	toxtricity-low-key
+Remove? y for yes, any other key for no:
+
+Pokemon: eiscue-ice
+	eiscue-noice
+Remove? y for yes, any other key for no:
+
+Pokemon: indeedee-male
+	indeedee-female
+Remove? y for yes, any other key for no:
+
+Pokemon: morpeko-full-belly
+	morpeko-hangry
+Remove? y for yes, any other key for no:
+
+Pokemon: zacian
+	zacian-crowned
+Remove? y for yes, any other key for no:
+
+Pokemon: zamazenta
+	zamazenta-crowned
+Remove? y for yes, any other key for no:
+
+Pokemon: eternatus
+	eternatus-eternamax
+Remove? y for yes, any other key for no:
+y
+Pokemon: urshifu-single-strike
+	urshifu-rapid-strike
+Remove? y for yes, any other key for no:
+
+Pokemon: zarude
+	zarude-dada
+Remove? y for yes, any other key for no:
+
+Pokemon: calyrex
+	calyrex-ice
+Remove? y for yes, any other key for no:
+
+	calyrex-shadow
+Remove? y for yes, any other key for no:
+
+Pokemon: ursaluna
+	ursaluna-bloodmoon
+Remove? y for yes, any other key for no:
+
+Pokemon: basculegion-male
+	basculegion-female
+Remove? y for yes, any other key for no:
+
+Pokemon: enamorus-incarnate
+	enamorus-therian
+Remove? y for yes, any other key for no:
+
+Data Saved!
